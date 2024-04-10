@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TopAppBar</string>
+    <string name="action_favorite">menuItemOne</string>
+    <string name="action_settings">MenuItemTwo</string>
+    <string name="action_search">search here</string>
+</resources>
